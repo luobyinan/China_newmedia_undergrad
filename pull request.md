@@ -1,0 +1,11 @@
+# 关于发起和处理pull request的心得
+- 发起
+ - 在自己fork的项目修改并保存
+ - 在自己的页面点击pull request，并点击create pull request
+ - 发起时，注意用语礼貌问题。要用上“请”、“谢谢”等词语。而且要在title上写明自己修改的内容。
+- 如何处理GitHub的pull request
+ - 点击pull request
+ - 查看别人的pull request
+ - 检查有无格式问题和内容，再看一下发起的标题。
+ - 若有问题，则使用closed and comment 回复他，指出问题。
+ - 若无问题，就merge pull request，并回复感谢她/他的提交。
